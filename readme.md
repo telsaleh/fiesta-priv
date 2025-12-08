@@ -1,6 +1,7 @@
 Citation
 ========
-R. Agarwal, T. Elsaleh and E. Tragos, "GDPR-inspired IoT Ontology enabling Semantic Interoperability, Federation of Deployments and Privacy-Preserving Applications," 2022 IEEE 8th World Forum on Internet of Things (WF-IoT), Yokohama, Japan, 2022, pp. 1-8, doi: 10.1109/WF-IoT54382.2022.10152206. keywords: {Technological innovation;Data privacy;Smart cities;Semantics;Buildings;Ontologies;Internet of Things;Semantic Interoperability;Privacy;IoT;Best Practices;Testbeds;Experimentation},
+R. Agarwal, T. Elsaleh and E. Tragos, "GDPR-inspired IoT Ontology enabling Semantic Interoperability, Federation of Deployments and Privacy-Preserving Applications," 2022 IEEE 8th World Forum on Internet of Things (WF-IoT), Yokohama, Japan, 2022, pp. 1-8, doi: 10.1109/WF-IoT54382.2022.10152206. 
+Keywords: {Technological innovation; Data privacy; Smart cities; Semantics; Buildings; Ontologies; Internet of Things; Semantic Interoperability; Privacy;IoT; Best Practices; Testbeds; Experimentation},
 
 Abstract
 ========
