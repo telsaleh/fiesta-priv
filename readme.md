@@ -1,4 +1,4 @@
-#FIESTA-Priv Ontology:A GDPR-inspired IoT Ontology enabling Semantic Interoperability, Federation of Deployments and Privacy-Preserving Applications.
+# FIESTA-Priv Ontology:A GDPR-inspired IoT Ontology enabling Semantic Interoperability, Federation of Deployments and Privacy-Preserving Applications.
 
 Citation
 ========
