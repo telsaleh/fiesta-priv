@@ -6,7 +6,6 @@ Abstract
 
 Testing and experimentation are crucial for promoting innovation and building systems that can evolve to meet high levels of service quality. IoT data that belong to users and from which their personal information can be inferred are frequently shared in the background of IoT systems with third parties for experimentation and building quality services. This data sharing raises privacy concerns especially since in most cases the data are gathered and shared without the user's knowledge or explicit consent or for different purposes than the one for which the data were initially gathered. With the introduction of GDPR, IoT systems and experimentation platforms that federate data from different deployments, testbeds and data providers must be privacy-preserving. The wide adoption of IoT applications in scenarios ranging from smart cities to Industry 4.0 has raised concerns with respect to the privacy of users' data collected using IoT devices. Many experimental smart city applications are also using crowdsourcing data. Inspired by the GDPR requirements, we propose an IoT ontology built using available standards that enhances privacy, enables semantic interoperability between IoT deployments and supports the development of privacy-preserving experimental IoT applications.  On top, we propose recommendations on how to efficiently use the ontology within IoT testbed and federating platforms. Our ontology is validated for different quality assessment criteria using standard validation tools. We focus on "experimentation" without any loss of generality, because it covers scenarios from both research and industry, that are directly linked with innovation and in most cases neglect privacy.
 
-
 Modifications (from FIESTA-IoT ontology)
 ========
 ![Ontology](https://github.com/ragarwa2/fiesta-priv/blob/master/ontology.png)
@@ -45,6 +44,13 @@ Sample SPARQL Query
 	}
 ```
 
+Files
+===================
+- Ontology: [fiesta-priv.owl](fiesta-priv.owl)
+- Taxonomy: [iot-taxonomy-lite.owl](iot-taxonomy-lite.owl)
+
+Nonetheless, other format files are also made available. The available code, source of the ontology documentation, deploys it along with necessary files.
+
 Tools used
 ==========
 - Ontology Documentation: 
@@ -52,10 +58,6 @@ Tools used
 - Ontology Validation: 
 	- [OOPS](http://smart-ics.ee.surrey.ac.uk/fiesta/ontology/fiesta-priv/OOPSevaluation/oopsEval.html#)
 	- [Vapour](http://linkeddata.uriburner.com:8000/vapour?uri=http%3A%2F%2Fpurl.org%2Fiot%2Fontology%2Ffiesta-priv%23&acceptRdfXml=1&defaultResponse=dontmind&userAgent=#)
-
-General Information
-===================
-The ontology file is fiesta-priv.owl and the taxonomy file is iot-taxonomy-lite.owl. Nonetheless, other format files are also made available. The available code, source of the ontology documentation, deploys it along with necessary files.
 
 Authors
 =======
